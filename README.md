@@ -1,1 +1,1 @@
-This project explores customer segmentation using the K-Means clustering algorithm. The dataset contains demographic and behavioral variables such as age, gender, marital status, education, profession, work experience, spending score and family size.
+This project explores customer segmentation using the K-Means clustering algorithm. The dataset contains demographic and behavioural variables such as age, gender, marital status, education, profession, work experience, spending score and family size.
